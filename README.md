@@ -1,24 +1,47 @@
-# Hi there! 👋 I'm Gulinur Ro'ziyeva
+# Hi 👋, I'm Gulinur Ro'ziyeva
 
-**Python Backend Developer | ERPNext Integrator**  
-📍 Tashkent | 1+ years of experience
+### 🔥 Passionate Python Backend Developer | 1+ Years of Experience | ERPNext Integrator
 
-## 🛠️ Tech Stack
+`Clean Code` ✅ `Clean Mind`
 
-**Languages:** Python  
-**Frameworks:** Django, DRF, Frappe  
-**Databases:** PostgreSQL, SQLite, MariaDB  
-**Tools:** Docker, Postman, ERPNext, Linux  
-**Concepts:** REST APIs, MVC, CRUD, Authentication
+---
+
+## � About Me
+
+🎯 I'm a highly motivated and self-driven **Backend Developer** with a strong passion for building scalable, secure, and high-performance APIs and backend systems.
+
+💡 I specialize in **Django**, **Django REST Framework**, **Frappe**, and **PostgreSQL**, and love working on clean architecture and reusable code.
+
+🔧 Currently working as **ERPNext Integrator** at DBR Company in Tashkent.
+
+🌱 Always learning and experimenting with new tools and technologies.
+
+---
 
 ## 💼 Experience
 
-**DBR Company** - Python Backend Developer & ERPNext Integrator
+- 🎯 **1+ years** of professional experience in backend development
+- 🏢 Working at **DBR Company** in Tashkent
+- 🔗 Building **ERP integrations** and **REST APIs**
 
-## 📖 Education
+---
 
-- Komiljon Khamidjonov's Online Pro Course
-- Self Study
+## 🧰 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLITE-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ERPNext](https://img.shields.io/badge/ERPNEXT-0089FF?style=for-the-badge&logo=erpnext&logoColor=white)
+![Frappe](https://img.shields.io/badge/FRAPPE-0089FF?style=for-the-badge&logo=frappe&logoColor=white)
+
+---
 
 ## 🌐 Languages
 
