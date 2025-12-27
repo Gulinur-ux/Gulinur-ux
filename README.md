@@ -1,6 +1,6 @@
 # Hi 👋, I'm Gulinur Ro'ziyeva
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Clean+Code+%E2%9C%85+Clean+Mind;Python+Backend+Developer;ERPNext+Integrator;Django+%26+DRF+Specialist;1%2B+Years+of+Experience)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Gulinur+%F0%9F%91%8B;Python+Backend+Developer;ERPNext+Integrator;Django+%26+DRF+Specialist;Clean+Code+%E2%9C%85+Clean+Mind)](https://git.io/typing-svg)
 
 ---
 
